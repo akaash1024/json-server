@@ -1,0 +1,23 @@
+{
+  "name": "server-ecommerce",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Susanta0/Server-Ecommerce.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Susanta0/Server-Ecommerce/issues"
+  },
+  "homepage": "https://github.com/Susanta0/Server-Ecommerce#readme",
+  "dependencies": {
+    "json-server": "^0.17.4"
+  }
+}
